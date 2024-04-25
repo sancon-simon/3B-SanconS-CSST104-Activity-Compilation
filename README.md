@@ -86,7 +86,7 @@ Exercises
 *   [Exercise 6](#exercise-6)
 *   [Exercise 7](#exercise-7)
 *   [Exercise 8](#exercise-8)
-*   [Midterm Exam(9)](#exercise-9)
+*   [Midterm Exam(9)](#exercise-9(midterm))
 
 
 ### Activity-1
