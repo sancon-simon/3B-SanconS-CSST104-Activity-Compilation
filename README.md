@@ -41,6 +41,10 @@
 </li>
 
 <li>
+<a href="https://github.com/sancon-simon/3B-SanconS-CSST104-Activity-Compilation/blob/main/Compilation_Exercises/3B_SANCON_EXER4_2.ipynb" target = "_blank">Exercise 4_2 - Advance Machine Learning</a>
+</li>
+
+<li>
 <a href="https://github.com/sancon-simon/3B-SanconS-CSST104-Activity-Compilation/blob/main/Compilation_Exercises/3B_SANCON_EXER5.ipynb" target = "_blank">Exercise 5 - Advance Machine Learning</a>
 </li>
 
