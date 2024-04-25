@@ -66,8 +66,8 @@
 
 Activities
 
-*   [Activity 1]{#Activity-1}
-*   [Activity 2](#Activity-2)
+*   [Activity 1](#activity-1)
+*   [Activity 2](#activity-2)
 *   [Activity 3](#Activity-3)
 *   [Activity 4](#Activity-4)
 
@@ -85,7 +85,7 @@ Exercises
 *   [Midterm Exam(9)](#Exercise-9)
 
 
-**Activity-1**
+### Activity-1
 
 This activity is focused on the Introduction of Advance Machine Learning, the dataset that was used is "hardwarestore.csv" this contains the following;
 
@@ -101,7 +101,7 @@ QUANTITY
 
 The Activity is Composed of basic data loading, data initial analysis, category analysis, cost and price analysis, location analysis as well as producing reports and insights.
 
-**Activity-2**
+### Activity-2
 
 This activity encompasses the fitting of simple linear regression model and visualizing the correlation linearity, the dataset that was used is called "Lesson_4_grades_dataset.csv"
 
