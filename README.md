@@ -57,7 +57,7 @@
 </li>
 
 <li>
-<a href="https://github.com/sancon-simon/3B-SanconS-CSST104-Activity-Compilation/blob/main/Compilation_Exercises/3B_SANCON_EXER_MIDTERM.ipynb" target = "_blank">Midterm Exam - Advance Machine Learning</a>
+<a href="https://github.com/sancon-simon/3B-SanconS-CSST104-Activity-Compilation/blob/main/Compilation_Exercises/3B_SANCON_MIDTERM.ipynb" target = "_blank">Midterm Exam - Advance Machine Learning</a>
 </li>
 
 </ul>
@@ -66,10 +66,10 @@
 
 Activities
 
-*   [Activity 1](#Activity-1)
-*   [Activity 2](#Activity-1)
-*   [Activity 3](#Activity-1)
-*   [Activity 4](#Activity-1)
+*   [Activity 1]{#Activity-1}
+*   [Activity 2](#Activity-2)
+*   [Activity 3](#Activity-3)
+*   [Activity 4](#Activity-4)
 
 Exercises
 
